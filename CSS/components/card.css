@@ -1,0 +1,16 @@
+.card {
+	padding: 30px;
+	display: flex;
+	justify-content: space-between;
+	border-radius: 6px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2)
+}
+
+
+.cardobjectif {
+	padding: 30px;
+	margin: 0px 0 4px;
+	background-color: white;
+	border-radius: 0px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2)
+}

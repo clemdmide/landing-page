@@ -1,0 +1,32 @@
+.button_banner {
+    display: block;
+    width: 120px;
+    height: 50px;
+    background: white;
+    color: #0D2357;
+    font-size: 20px;
+    margin: 0 auto;
+    line-height: 50px;
+    text-align: center;
+}
+.button_banner:hover {
+     background: #0D2357;
+     color: white;
+}
+
+.button {
+	display: block;
+    width: 120px;
+    height: 50px;
+    background: #0D2357;
+    color: #fff;
+    font-size: 20px;
+    margin: 0 auto;
+    line-height: 50px;
+    text-align: center;
+}
+
+.button:hover {
+     background: white;
+     color: #0D2357;
+}
